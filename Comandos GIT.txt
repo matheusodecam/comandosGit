@@ -1,4 +1,4 @@
-                                                          !!!!! COMANDOS ESSENCIAIS PARA USO DO GIT !!!!!
+                                                          ##!!!!! COMANDOS ESSENCIAIS PARA USO DO GIT !!!!!
 
 "git remote add origin <link-GitHub>"____________________________ -> Adiciona o repositorio REMOTO ao repositorio LOCAL;
 "git remote -v"__________________________________________________ -> Mostra qual repositorio esta conectado;
