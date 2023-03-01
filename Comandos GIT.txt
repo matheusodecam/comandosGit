@@ -2,7 +2,9 @@
 
 "git remote add origin <link-GitHub>"____________________________ -> Adiciona o repositorio REMOTO ao repositorio LOCAL;
 "git remote -v"__________________________________________________ -> Mostra qual repositorio esta conectado;
-"git init"________________________________________________________-> Cria um novo repositório do Git;
+"git init"_______________________________________________________ -> Cria um novo repositório do Git;
+"git branch -m master main"______________________________________ -> Muda da branch master para a main;
+"git push -u origin main"________________________________________ -> Cria a branch main, se necessario;
 
 "git status"______________________________________________________-> Lista todos os arquivos modificados;
 "git clone"_______________________________________________________-> Baixa o código-fonte existente de um repositório remoto;
