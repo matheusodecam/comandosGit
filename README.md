@@ -39,3 +39,10 @@ Este repositório eu uso para anotar alguns dos principais comando GIT que uso d
 |`git branch -d`| Exclui uma branch|
 |`git branch -a`| Mostra todas as branchs do repositório *remoto*|
 
+
+
+### Conhecendo o aplicativo
+
+- **Tela Principal**
+<img src="https://github.com/matheusodecam/appDespesas/blob/main/pictures/telaInicial.png" width="200">
+
