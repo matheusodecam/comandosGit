@@ -22,7 +22,7 @@ Este repositório eu uso para anotar alguns dos principais comando GIT que uso d
 |`git clone`||
 |`git add` *nome do arquivo*| Adiciona o arquivo ao repositório *local*|
 |`git add -A`| Adiciona todos os arquivos ao repositorio *local*|
-|`git commit -m `*mensagem do commit*| Os arquivos são enviados da *area de preparação* para o repositório *local*|
+|`git commit -m` *mensagem do commit*| Os arquivos são enviados da *area de preparação* para o repositório *local*|
 |`git push --set-upstream` *repositório-remoto**nome-da-branch*| Usado para enviar a branch *local* para a branch *remota* pela primeira vez|
 |`git push -u origin` *nome-da-branch*| Versão abreviada do comando anterior, porém o nome da branch *local* precisa ser o mesmo da branch *remota*|
 |`git push` *repositório-remoto**nome-da-branch*| Envia os dados para o repositório *remoto* especifico|
