@@ -44,5 +44,5 @@ Este repositório eu uso para anotar alguns dos principais comando GIT que uso d
 ### Conhecendo o aplicativo
 
 - **Tela Principal**
-<img src="https://github.com/matheusodecam/appDespesas/blob/main/pictures/telaInicial.png" width="200">
+<img src="https://github.com/matheusodecam/comandosGit/blob/main/image.jpg" width="200">
 
