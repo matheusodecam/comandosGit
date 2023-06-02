@@ -19,7 +19,6 @@ Este repositório eu uso para anotar alguns dos principais comando GIT que uso d
 |`git clone`| Copia todo o repositório *remoto* dentro do repositório local|
 |||
 |||
-|`git clone`||
 |`git add` *nome do arquivo*| Adiciona o arquivo ao repositório *local*|
 |`git add -A`| Adiciona todos os arquivos ao repositorio *local*|
 |`git commit -m` *mensagem do commit*| Os arquivos são enviados da *area de preparação* para o repositório *local*|
