@@ -16,7 +16,7 @@ Este repositório eu uso para anotar alguns dos principais comando GIT que uso d
 |||
 |||
 |`git status`| Mostra a lista dos arquivos que devem ser adicionados para o commit, e também os que já foram adicionados|
-|`git clone`| Copia todo o repositório *remoto* dentro do repositório local|
+|`git clone` *repositório-remoto*| Copia todo o repositório *remoto* dentro do repositório local|
 |||
 |||
 |`git add` *nome do arquivo*| Adiciona o arquivo ao repositório *local*|
